@@ -24,10 +24,10 @@ For this task, it is necessary to utilize a shared memory in which two processes
 This spot will serve as the focal point for the simulation.
 The structure of the code is as follows:
 
+![image](https://github.com/ParinazRmp/Shared_Memory_in_Robo_Vision_Simulator/assets/94115975/160aba64-20ef-4fb9-a6e2-7fd21eb8ba74)
 
 ## Installation_and_Running
-### libbitmap installation and usage
-## *libbitmap* installation and usage
+### *libbitmap* installation and usage
 To work with the bitmap library, you need to follow these steps:
 1. Download the source code from [this GitHub repo](https://github.com/draekko/libbitmap.git) in your file system.
 2. Navigate to the root directory of the downloaded repo and run the configuration through command ```./configure```. Configuration might take a while.  While running, it prints some messages telling which features it is checking for.

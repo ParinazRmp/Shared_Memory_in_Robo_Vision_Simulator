@@ -27,7 +27,7 @@ The structure of the code is as follows:
 ![image](https://github.com/ParinazRmp/Shared_Memory_in_Robo_Vision_Simulator/assets/94115975/160aba64-20ef-4fb9-a6e2-7fd21eb8ba74)
 
 ## Installation_and_Running
-## ncurses installation
+### ncurses installation
 To install the ncurses library, simply open a terminal and type the following command:
 ```console
 sudo apt-get install libncurses-dev

@@ -27,6 +27,11 @@ The structure of the code is as follows:
 ![image](https://github.com/ParinazRmp/Shared_Memory_in_Robo_Vision_Simulator/assets/94115975/160aba64-20ef-4fb9-a6e2-7fd21eb8ba74)
 
 ## Installation_and_Running
+## ncurses installation
+To install the ncurses library, simply open a terminal and type the following command:
+```console
+sudo apt-get install libncurses-dev
+```
 ### *libbitmap* installation and usage
 To work with the bitmap library, you need to follow these steps:
 1. Download the source code from [this GitHub repo](https://github.com/draekko/libbitmap.git) in your file system.

@@ -19,4 +19,9 @@ The code to design, develop, test, and deploy is an interactive simulator of a (
 
 ## Introduction
 In this project, we will provide a shared memory infrastructure to implement a simulated vision system.
-For this task, it is necessary to utilize a shared memory in which two processes will work concurrently, mirroring similar real-life applications. However, due to the lack of a camera, we will simulate the creation of a moving image by implementing a ncurses window. By means of arrow keys, a spot in the window will be moved to generate the illusion of a camera's perspective. This spot will serve as the focal point for the simulation.
+
+For this task, it is necessary to utilize a shared memory in which two processes will work concurrently, mirroring similar real-life applications. However, due to the lack of a camera, we will simulate the creation of a moving image by implementing a ncurses window. By means of arrow keys, a spot in the window will be moved to generate the illusion of a camera's perspective. 
+This spot will serve as the focal point for the simulation.
+The structure of the code is as follows:
+![image](https://github.com/ParinazRmp/Shared_Memory_in_Robo_Vision_Simulator/assets/94115975/30f07d50-2b70-4d47-8164-e8442bc5309c)
+

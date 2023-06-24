@@ -9,9 +9,8 @@ The code to design, develop, test, and deploy is an interactive simulator of a (
   <ol>
     <li><a href="#Introduction">Introduction</a></li>
     <li><a href="#Installation_and_Running">Installation_and_Running</a></li>
+    <li><a href="#Documentation">Documentation</a></li>
     <li><a href="#Fauctionality">Fauctionality</a></li>
-    <li><a href="#How_it_works">How_it_works</a></li>
-    <li><a href="#PseudoCode">PseudoCode</a></li>
     <li><a href="#Simulation_and_Results">Simulation_and_Results</a></li>
     <li><a href="#Members">Members</a></li>
   </ol>
@@ -48,8 +47,13 @@ Once the installation is done, clone this repository to your desired location:
 After you clone the repository, run this command:
 <pre><code> sh run.sh </code></pre>
 
+## Documentation
+You can view the documentation [here](http://example.com/your_doxygen_docs).
 
+## Fauctionality
 
+## Simulation_and_Results
+![ARP2](https://github.com/ParinazRmp/Shared_Memory_in_Robo_Vision_Simulator/assets/94115975/3f27c4c6-5aad-417e-96cf-c03877155c6c)
 
 <img src="https://user-images.githubusercontent.com/80394968/225428503-ce0991e7-10c8-45f5-bb52-ab4de821c27d.png" width="60" /> 
 

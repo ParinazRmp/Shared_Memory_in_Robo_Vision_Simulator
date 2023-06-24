@@ -25,12 +25,9 @@ This spot will serve as the focal point for the simulation.
 The structure of the code is as follows:
 
 ![image](https://github.com/ParinazRmp/Shared_Memory_in_Robo_Vision_Simulator/assets/94115975/160aba64-20ef-4fb9-a6e2-7fd21eb8ba74)
-
 <img src="https://user-images.githubusercontent.com/80394968/225428258-e8b9859d-d05b-42ed-b783-29340073b10f.png" width="30" /> 
-=============
 
 ## Installation_and_Running
-
 ### 1. ncurses installation
 To install the ncurses library, simply open a terminal and type the following command:
 ```console

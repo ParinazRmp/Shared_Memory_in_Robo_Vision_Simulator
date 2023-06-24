@@ -42,6 +42,12 @@ To work with the bitmap library, you need to follow these steps:
 6. In order to properly compile programs which use the *libbitmap* library, you first need to notify the **linker** about the location of the shared library. To do that, you can simply add the following line at the end of your ```.bashrc``` file:      
 ```export LD_LIBRARY_PATH="/usr/local/lib:$LD_LIBRARY_PATH"```
 
+### 3. Compiling and running Process A and Process B
 Once the installation is done, clone this repository to your desired location:
-<pre><code>git clone https://github.com/ParinazRmp/SLAM-with-Gmapping-and-Moving-Base.git </code></pre>
+<pre><code>git clone https://github.com/ParinazRmp/Shared_Memory_in_Robo_Vision_Simulator.git </code></pre>
+After you clone the repository, run this command:
+<pre><code> sh run.sh </code></pre>
+
+
+
 

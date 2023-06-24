@@ -27,12 +27,12 @@ The structure of the code is as follows:
 ![image](https://github.com/ParinazRmp/Shared_Memory_in_Robo_Vision_Simulator/assets/94115975/160aba64-20ef-4fb9-a6e2-7fd21eb8ba74)
 
 ## Installation_and_Running
-### ncurses installation
+### 1. ncurses installation
 To install the ncurses library, simply open a terminal and type the following command:
 ```console
 sudo apt-get install libncurses-dev
 ```
-### *libbitmap* installation and usage
+### 2. *libbitmap* installation and usage
 To work with the bitmap library, you need to follow these steps:
 1. Download the source code from [this GitHub repo](https://github.com/draekko/libbitmap.git) in your file system.
 2. Navigate to the root directory of the downloaded repo and run the configuration through command ```./configure```. Configuration might take a while.  While running, it prints some messages telling which features it is checking for.
@@ -41,4 +41,7 @@ To work with the bitmap library, you need to follow these steps:
 5. Upon completing the installation, check that the files have been properly installed by navigating to ```/usr/local/lib```, where you should find the ```libbmp.so``` shared library ready for use.
 6. In order to properly compile programs which use the *libbitmap* library, you first need to notify the **linker** about the location of the shared library. To do that, you can simply add the following line at the end of your ```.bashrc``` file:      
 ```export LD_LIBRARY_PATH="/usr/local/lib:$LD_LIBRARY_PATH"```
+
+Once the installation is done, clone this repository to your desired location:
+<pre><code>git clone https://github.com/ParinazRmp/SLAM-with-Gmapping-and-Moving-Base.git </code></pre>
 

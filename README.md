@@ -13,7 +13,7 @@ The code to design, develop, test, and deploy is an interactive simulator of a (
     <li><a href="#How_it_works">How_it_works</a></li>
     <li><a href="#PseudoCode">PseudoCode</a></li>
     <li><a href="#Simulation_and_Results">Simulation_and_Results</a></li>
-    <li><a href="#Improving_Robot_Movement">Improving_Robot_Movement</a></li>
+    <li><a href="#Members">Members</a></li>
   </ol>
 </details>
 
@@ -51,3 +51,9 @@ After you clone the repository, run this command:
 
 
 
+<img src="https://user-images.githubusercontent.com/80394968/225428503-ce0991e7-10c8-45f5-bb52-ab4de821c27d.png" width="60" /> 
+## Members
+| Github-page | Email |
+|------------------|------------------|
+| [Danial Sabzevari](https://github.com/dssdanial)  | s5217544@studenti.unige.it |
+| [Parinaz Ramezanpour](https://github.com/ParinazRmp)  | s5214640@studenti.unige.it |
